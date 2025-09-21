@@ -7,6 +7,8 @@
 .App h1,
 .App h2 {
   text-align: center;
+  color: #1f7f95;
+  /* text-shadow: 2px 2px 2px black; */
 }
 
 .tabs {
@@ -22,6 +24,7 @@
 
 .tab-title {
   font-size: 18px;
+  text-decoration: underline;
   padding: 10px;
   margin: 0;
   cursor: pointer;
@@ -30,13 +33,13 @@
 }
 
 .tab-title.active {
-  background-color: #ccc;
-  border-bottom: 1px solid #ccc;
+  background-color: #36cef0;
+  border-bottom: 1px solid #36cef0;
 }
 
 .tab-content {
   padding: 20px 25px;
   line-height: 1.5;
-  border: 1px solid #ccc;
+  border: 2px solid #36cef0;
   border-radius: 0 0 5px 5px;
 }
