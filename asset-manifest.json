@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-hooks-squeaky-c-laundro/static/css/main.08661376.css",
-    "main.js": "/react-hooks-squeaky-c-laundro/static/js/main.174d4787.js",
+    "main.css": "/react-hooks-squeaky-c-laundro/static/css/main.00ce062b.css",
+    "main.js": "/react-hooks-squeaky-c-laundro/static/js/main.af579fb5.js",
     "index.html": "/react-hooks-squeaky-c-laundro/index.html",
-    "main.08661376.css.map": "/react-hooks-squeaky-c-laundro/static/css/main.08661376.css.map",
-    "main.174d4787.js.map": "/react-hooks-squeaky-c-laundro/static/js/main.174d4787.js.map"
+    "main.00ce062b.css.map": "/react-hooks-squeaky-c-laundro/static/css/main.00ce062b.css.map",
+    "main.af579fb5.js.map": "/react-hooks-squeaky-c-laundro/static/js/main.af579fb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.08661376.css",
-    "static/js/main.174d4787.js"
+    "static/css/main.00ce062b.css",
+    "static/js/main.af579fb5.js"
   ]
 }
